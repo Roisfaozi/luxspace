@@ -1,1 +1,6 @@
-import "../css/app.css";
+import '../css/app.css'
+import './modal.js'
+import './accordion.js'
+import './anchor-link-smooth.js'
+import './carousel.js'
+import './menu-toggler.js'
